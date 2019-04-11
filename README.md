@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # spring-cloud-fescar
 spring cloud集成fescar的demo工程
 
@@ -62,3 +63,7 @@ requestBody:
 
 1. 程序正常执行，请求成功，响应码200，查看数据库，各个表的数据一致
 2. 程序执行失败，请求失败，响应码500，查看数据库，各个表的数据一致
+=======
+# springcloud_fescar
+springCloud_fescar test
+>>>>>>> 5fa72e2c20cc14c2ae0958aa0b84bed7e8e87201
